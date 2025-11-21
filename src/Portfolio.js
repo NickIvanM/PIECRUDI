@@ -10,14 +10,10 @@ function Portfolio() {
     },
     {
       title: "Mobile App",
-      description: "pwedi",
+      description: "pwedi sawa",
       link: "https://appetize.io/embed/b_clf3yzcnyyg5af25nlkyh7d7ty?device=pixel9pro&launchUrl=exp%3A%2F%2Fu.expo.dev%2F933fd9c0-1666-11e7-afca-d980795c5824%3Fruntime-version%3Dexposdk%253A54.0.0%26channel-name%3Dproduction%26snack%3D%2540bang08%252Fnick%26snack-channel%3DV2BL2zRnOG&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D&appearance=dark&deviceColor=white&scale=auto&orientation=portrait&centered=both"
     },
-    {
-      title: "Mobile App",
-      description: "Ok na to.",
-      link: "https://appetize.io/embed/b_clf3yzcnyyg5af25nlkyh7d7ty?device=pixel9pro&launchUrl=exp%3A%2F%2Fu.expo.dev%2F933fd9c0-1666-11e7-afca-d980795c5824%3Fruntime-version%3Dexposdk%253A54.0.0%26channel-name%3Dproduction%26snack%3D%2540bang08%252Fnick%26snack-channel%3DV2BL2zRnOG&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D&appearance=dark&deviceColor=white&scale=auto&orientation=portrait&centered=both"
-    }
+    
   ];
 
   return (
